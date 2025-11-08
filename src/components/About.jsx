@@ -10,12 +10,12 @@ const About = () => {
     {
       category: "College",
       icon: <GraduationCap className="w-6 h-6" />,
-      items: ["Cavite State University - Bacoor Campus", "Bachelor of Science in Computer Science", "2020 - 2024"]
+      items: ["Cavite State University - Bacoor Campus", "Bachelor of Science in Computer Science", "2020 - Present"]
     },
     {
       category: "Senior High School",
       icon: <Book className="w-6 h-6" />,
-      items: ["Philippine Merchant Marine School PMMS", "STEM", "2018 - 2020"]
+      items: ["Philippine Merchant Marine School - PMMS", "STEM", "2018 - 2020"]
     },
     {
       category: "High School",
